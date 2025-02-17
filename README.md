@@ -18,13 +18,13 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="[https://linkedin.com/in/shaun-n-s](https://www.linkedin.com/in/shaun-n-s-802a32326/)" target="_blank">
+  <a href="https://www.linkedin.com/in/shaun-n-s-802a32326/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/shaun-n-s" target="_blank">
+  <a href="https://www.instagram.com/shaun_n_s/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.leetcode.com/shaun-n-s" target="_blank">
+  <a href="https://leetcode.com/u/Shaunns/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
