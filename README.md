@@ -2,65 +2,112 @@
 
 # Shaun N S
 
-**Full Stack Developer**
+### Full Stack Developer &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Clean Architecture &nbsp;·&nbsp; Open Source
 
-*Building scalable web applications with clean architecture and modern tooling.*
+*I build production-ready web applications — from pixel to database to deployment.*
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaun-n-s-802a32326/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shaunns/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shaunns7025@gmail.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shaun-n-s)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shaunns/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shaunns7025@gmail.com)
 
 </div>
 
----
+<br>
 
 ## About
 
-- Full Stack Developer specializing in the MERN stack, with a focus on **Clean Architecture** and **SOLID principles**
-- Build production-ready systems with proper separation of concerns, scalable APIs, and maintainable codebases
-- Actively exploring **cloud infrastructure** (AWS), **system design**, and distributed application patterns
-- Contributor to open-source projects; believe in writing code that others can read, understand, and extend
-- Currently deepening expertise in **TypeScript**, **Next.js**, and backend performance optimization
+- Full Stack Developer with hands-on experience building end-to-end web applications using the MERN stack and TypeScript
+- Apply **Clean Architecture** and **SOLID principles** to write modular, testable, and maintainable code at scale
+- Active **open-source contributor** — focused on backend systems, developer tooling, and community-driven development
+- Deepening expertise in **AWS infrastructure**, system design, and distributed application architecture
 
----
+<br>
 
 ## Tech Stack
 
+<div align="center">
+
 **Frontend**
-`React` `Next.js` `TypeScript` `JavaScript` `Redux` `Tailwind CSS` `ShadCN UI` `Material UI`
 
-**Backend**
-`Node.js` `Express.js` `REST APIs` `JWT` `OAuth 2.0`
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui)](https://skillicons.dev)
 
-**Database**
-`MongoDB` `PostgreSQL` `MySQL` `Firebase`
+**Backend & Database**
 
-**Cloud & DevOps**
-`AWS` `S3` `Vercel` `Nginx`
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase)](https://skillicons.dev)
 
-**Tools**
-`Git` `Postman` `Figma` `GitHub Copilot`
+**Cloud, DevOps & Tools**
 
----
+[![My Skills](https://skillicons.dev/icons?i=aws,nginx,vercel,git,github,postman,figma)](https://skillicons.dev)
+
+</div>
+
+<br>
 
 ## Featured Projects
 
-**[VentureNest]((https://github.com/Shaun-N-S/VentureNest_))** — Startup investment platform with real-time chat (Socket.io), WebRTC video sessions, Stripe payments, and built on Clean Architecture principles.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[Spectrax]((https://github.com/Shaun-N-S/Spectraxgit))** — Full-stack e-commerce platform with Razorpay integration, JWT authentication, and deployed on AWS with Nginx as a reverse proxy.
+### VentureNest
+**Startup Investment Platform**
 
----
+A full-featured platform connecting founders and investors with real-time capabilities built for scale.
 
-## Stats
+- Real-time chat via **Socket.io**
+- **WebRTC** video calling sessions
+- **Stripe** payment integration
+- Built on **Clean Architecture** with layered separation
+- TypeScript throughout, REST API backend
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shaun-n-s)
+
+</td>
+<td width="50%" valign="top">
+
+### Spectrax
+**Full-Stack E-Commerce Platform**
+
+A production-grade online store built with modern backend patterns and deployed on cloud infrastructure.
+
+- **JWT** authentication with refresh token rotation
+- **Razorpay** payment gateway integration
+- Deployed on **AWS EC2** with **Nginx** reverse proxy
+- **S3** for media asset storage
+- Optimized MongoDB queries with indexing
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shaun-n-s)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Open Source
+
+I believe good software is built in the open. I contribute to projects in the backend and developer tooling space, review community pull requests, and write documentation that helps other developers onboard faster. If you maintain a Node.js, TypeScript, or developer-tooling project — I'm interested in contributing.
+
+<br>
+
+## GitHub Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shaun-n-s&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=prs,issues" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaun-n-s&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaun-n-s&theme=github-compact&hide_border=true&area=true)](https://github.com/shaun-n-s)
+
 </div>
 
+<br>
+
 ---
 
 <div align="center">
-<sub>Open to full-time roles and interesting collaborations · <a href="mailto:shaunns7025@gmail.com">shaunns7025@gmail.com</a></sub>
+<sub>Available for full-time roles and meaningful collaborations &nbsp;·&nbsp; <a href="mailto:shaunns7025@gmail.com">shaunns7025@gmail.com</a></sub>
 </div>
