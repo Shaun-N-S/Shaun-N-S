@@ -123,7 +123,7 @@ A full-stack platform connecting startups, investors, and users through investme
 
 <a href="https://github.com/Shaun-N-S/VentureNest_"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-22c55e?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://venturenest.shaunns.online/"><img src="https://img.shields.io/badge/Live_Demo-22c55e?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
