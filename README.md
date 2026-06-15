@@ -121,7 +121,7 @@ A full-stack platform connecting startups, investors, and users through investme
 
 **Stack:** Node.js · Express · TypeScript · MongoDB · React · TanStack Query · ShadCN · AWS · Vercel
 
-<a href="https://github.com/Shaun-N-S"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Shaun-N-S/VentureNest_"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-22c55e?style=flat-square&logo=vercel&logoColor=white" /></a>
 
@@ -144,7 +144,7 @@ A production-grade online store for electronic gadgets — laptops, keyboards, a
 
 **Stack:** Node.js · Express · MongoDB · React · Redux · Tailwind CSS · AWS EC2 · S3 · Razorpay
 
-<a href="https://github.com/Shaun-N-S"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Shaun-N-S/spectraxgit"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
