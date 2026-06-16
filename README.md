@@ -119,7 +119,7 @@ A full-stack platform connecting startups, investors, and users through investme
 - 🐳 Automated deployment via **Docker** + **GitHub Actions CI/CD**
 - 🔴 **Redis** for session management and caching
 
-**Stack:** Node.js · Express · TypeScript · MongoDB · React · TanStack Query · ShadCN · AWS · Vercel
+**Stack:** Node.js · Express · TypeScript · MongoDB · React · TanStack Query · ShadCN · AWS · EC2 · AWS Amplify
 
 <a href="https://github.com/Shaun-N-S/VentureNest_"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 &nbsp;
