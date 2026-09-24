@@ -145,7 +145,8 @@ A production-grade online store for electronic gadgets — laptops, keyboards, a
 **Stack:** Node.js · Express · MongoDB · React · Redux · Tailwind CSS · AWS EC2 · S3 · Razorpay
 
 <a href="https://github.com/Shaun-N-S/spectraxgit"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
+&nbsp;
+<a href="https://www.spectrax.shaunns.online/"><img src="https://img.shields.io/badge/Live_Demo-22c55e?style=flat-square&logo=vercel&logoColor=white" /></a>
 </td>
 </tr>
 </table>
