@@ -210,6 +210,6 @@ I believe great software is built in public. I contribute to the **Node.js**, **
 
 **Available for full-time roles and meaningful collaborations**
 <br/>
-<sub>📍 Kochi, India &nbsp;·&nbsp; 📧 shaunns1092@gmail.com &nbsp;·&nbsp; 📞 +91 702 563 72 70</sub>
+<sub>📍 Kochi, India &nbsp;·&nbsp; 📧 shaunns7025@gmail.com &nbsp;·&nbsp; 📞 +91 702 563 72 70</sub>
 
 </div>
